@@ -1,4 +1,3 @@
-# mannnas006
 # 💫 About Me:
 I am currently working as a Cloud support engineer and seeking good Opportunities for a Software Engineer Role.<br>I am looking to collaborate with tech enthusiasts.<br>I am currently learning React Framework.<br>Ask me about - Mentoring, Coding, Python, Data Science, and many more.<br>Fun Fact - 90% of the world’s data was created in the last two years. The exponential growth of social media, cloud computing, and the Internet of Things has led to an explosion of data creation. That’s a lot of data!
 
