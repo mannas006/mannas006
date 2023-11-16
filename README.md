@@ -1,3 +1,28 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Manas</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
 # 💫 About Me:
 I am currently working as a Cloud support engineer and seeking good Opportunities for a Software Engineer Role.<br>I am looking to collaborate with tech enthusiasts.<br>I am currently learning React Framework.<br>Ask me about - Mentoring, Coding, Python, Data Science, and many more.<br>Fun Fact - 90% of the world’s data was created in the last two years. The exponential growth of social media, cloud computing, and the Internet of Things has led to an explosion of data creation. That’s a lot of data!
 
@@ -15,8 +40,6 @@ I am currently working as a Cloud support engineer and seeking good Opportunitie
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mannas006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mannas006&icon=0&color=0)](https://visitcount.itsvg.in)
