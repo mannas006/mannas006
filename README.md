@@ -35,8 +35,8 @@ I am currently working as a Cloud support engineer and seeking good Opportunitie
 
 [![mannas006's GitHub | Stats](https://stats.quine.sh/mannas006/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mannas006)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 
 ---
