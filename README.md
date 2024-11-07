@@ -10,7 +10,6 @@ I am currently working as a Cloud support engineer and seeking good Opportunitie
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannas006&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mannas006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
