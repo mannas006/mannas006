@@ -12,17 +12,11 @@ Completed Master of Computer Applications (MCA) with a focus on cloud and automa
 💫 About Me
 
 🔧 Cloud & DevOps Engineer focused on automation, CI/CD, and infrastructure scaling
-
 ☁️ Hands-on with AWS, Azure, Docker, GitHub Actions, Terraform, Prometheus, and CloudWatch
-
 🛠️ Experienced with microservices, monitoring, distributed systems, and production troubleshooting
-
 🎓 Completed MCA with a strong foundation in cloud technologies
-
 🤝 Love collaborating on cloud, automation, SRE, and Python-based projects
-
 ⭐ Founder of PixsBliss – Wallpaper App
-
 ⚡ Fun Fact: The cloud is just someone else’s computer, but automation makes it yours 😄
 
 
