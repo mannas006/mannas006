@@ -32,25 +32,18 @@ Completed Master of Computer Applications (MCA) with a focus on cloud and automa
   ## 📈 GitHub Stats & Activity
   
   <p align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannas006&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannas006&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
   </p>
   
   <br/>
   
   ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=mannas006&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  
-  <br/>
-  
-  ## 📊 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannas006&theme=radical&hide_border=false&area=true" alt="Contribution Graph" />
-  
-  <br/>
+  <p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mannas006&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=9" alt="GitHub Trophies" />
+  </p>  
   
   ## 💻 GitHub Profile Stats
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannas006&theme=radical" alt="Profile Details" />
-  
   <br/>
   
   <p align="center">
