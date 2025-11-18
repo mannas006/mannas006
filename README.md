@@ -1,5 +1,29 @@
-# 💫 About Me:
-I am currently working as a Cloud support engineer and seeking good Opportunities for a Software Engineer Role.<br>I am looking to collaborate with tech enthusiasts.<br>I am currently learning React Framework.<br>Ask me about - Mentoring, Coding, Python, Data Science, and many more.<br>Fun Fact - 90% of the world’s data was created in the last two years. The exponential growth of social media, cloud computing, and the Internet of Things has led to an explosion of data creation. That’s a lot of data!
+🌟 Hi, I'm Manas Dey
+🚀 Cloud & DevOps Engineer | SRE | Automation Enthusiast
+
+I build scalable cloud systems, automate deployments, and work on reliable production environments.
+With nearly 3 years of hands-on experience in AWS, Azure, Docker, CI/CD, Terraform, Linux, and monitoring stacks, I help teams ship faster and maintain high reliability.
+
+Currently working as a Freelance Site Reliability Engineer at WebNexaLabs.
+Previously at Accenture (Cloud Support) and BYJU’S (Internal IT Projects).
+Completed Master of Computer Applications (MCA) with a focus on cloud and automation.
+
+
+💫 About Me
+
+🔧 Cloud & DevOps Engineer focused on automation, CI/CD, and infrastructure scaling
+
+☁️ Hands-on with AWS, Azure, Docker, GitHub Actions, Terraform, Prometheus, and CloudWatch
+
+🛠️ Experienced with microservices, monitoring, distributed systems, and production troubleshooting
+
+🎓 Completed MCA with a strong foundation in cloud technologies
+
+🤝 Love collaborating on cloud, automation, SRE, and Python-based projects
+
+⭐ Founder of PixsBliss – Wallpaper App
+
+⚡ Fun Fact: The cloud is just someone else’s computer, but automation makes it yours 😄
 
 
 ## 🌐 Socials:
