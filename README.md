@@ -29,18 +29,7 @@ Completed Master of Computer Applications (MCA) with a focus on cloud and automa
 
 <div align="center">
   
-  ## 📈 GitHub Stats & Activity
-  
-  <p align="left">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannas006&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-  </p>
-  
-  <br/>
-  
-  ## 🏆 GitHub Trophies
-  <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannas006&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=9" alt="GitHub Trophies" />
-  </p>  
+ 
   
   ## 💻 GitHub Profile Stats
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannas006&theme=radical" alt="Profile Details" />
