@@ -60,4 +60,4 @@ Completed Master of Computer Applications (MCA) with a focus on cloud and automa
   
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM. ( https://gprm.itsvg.in ) -->
