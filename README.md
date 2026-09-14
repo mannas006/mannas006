@@ -48,7 +48,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
 
 <table>
   <tr>
-    <td width="28%"><strong>☁️ Cloud & Infrastructure</strong></td>
+    <td width="28%"><strong>Cloud & Infrastructure</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -59,7 +59,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>⚙️ DevOps, IaC & CI/CD</strong></td>
+    <td width="28%"><strong>DevOps, IaC & CI/CD</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -71,7 +71,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>📊 Observability & Monitoring</strong></td>
+    <td width="28%"><strong>Observability & Monitoring</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
@@ -79,7 +79,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>💻 Languages & Scripting</strong></td>
+    <td width="28%"><strong>Languages & Scripting</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -89,7 +89,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>🗄️ Databases & Storage</strong></td>
+    <td width="28%"><strong>Databases & Storage</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -100,7 +100,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>🚀 Backend & Frameworks</strong></td>
+    <td width="28%"><strong>Backend & Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -111,7 +111,7 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
     </td>
   </tr>
   <tr>
-    <td width="28%"><strong>🛠️ Ecosystem & Tools</strong></td>
+    <td width="28%"><strong>Ecosystem & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -177,6 +177,15 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
   <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mannas006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
+</div>
+
+---
+
+### 👾 Contributor Space Invader • Defend the Grid
+
+<div align="center">
+  <p><em>Retro arcade space shooter blasting through <strong>3,700+ GitHub contributions</strong></em> 🚀💥</p>
+  <img src="./assets/space-shooter.gif" width="100%" alt="Manas's GitHub Contribution Space Shooter" />
 </div>
 
 ---
