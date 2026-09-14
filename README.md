@@ -1,63 +1,187 @@
-🌟 Hi, I'm Manas Dey
-🚀 Cloud & DevOps Engineer | SRE | Automation Enthusiast
-
-I build scalable cloud systems, automate deployments, and work on reliable production environments.
-With nearly 3 years of hands-on experience in AWS, Azure, Docker, CI/CD, Terraform, Linux, and monitoring stacks, I help teams ship faster and maintain high reliability.
-
-Currently working as a Freelance Site Reliability Engineer at WebNexaLabs.
-Previously at Accenture (Cloud Support) and BYJU’S (Internal IT Projects).
-Completed Master of Computer Applications (MCA) with a focus on cloud and automation.
-
-
-💫 About Me
-
-🔧 Cloud & DevOps Engineer focused on automation, CI/CD, and infrastructure scaling
-☁️ Hands-on with AWS, Azure, Docker, GitHub Actions, Terraform, Prometheus, and CloudWatch
-🛠️ Experienced with microservices, monitoring, distributed systems, and production troubleshooting
-🎓 Completed MCA with a strong foundation in cloud technologies
-🤝 Love collaborating on cloud, automation, SRE, and Python-based projects
-⭐ Founder of PixsBliss – Wallpaper App
-⚡ Fun Fact: The cloud is just someone else’s computer, but automation makes it yours 😄
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/igl.manas/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/igl_manas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-dey/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Manas%20Dey&fontSize=44&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20SRE%20%7C%20Co-Founder%20%40WebNexaLabs&descAlignY=60&descAlign=50" width="100%" alt="Manas Dey Header" />
+</div>
 
 <div align="center">
-  
- 
-  
-  ## 💻 GitHub Profile Stats
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannas006&theme=radical" alt="Profile Details" />
-  <br/>
-  
+  <a href="https://github.com/mannas006">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Site+Reliability+Engineer+(SRE)+%F0%9F%9B%A0%EF%B8%8F;Co-Founder+%40WebNexaLabs+%F0%9F%9A%80;Infrastructure+as+Code+%26+CI%2FCD+Specialist+%E2%9A%99%EF%B8%8F;Architecting+High-Reliability+Cloud+Systems+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mannas006&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00C853?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-India-0288D1?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-MCA-8E24AA?style=flat-square&logo=academia&logoColor=white" alt="Education" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manas-dey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mannas006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/igl_manas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/igl.manas/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Executive Summary
+
+I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly **3 years of hands-on experience** designing resilient cloud architectures, streamlining CI/CD delivery pipelines, and maintaining high-availability production environments.
+
+- 🚀 **Current**: Co-Founder & Platform Lead at **WebNexaLabs**, engineering scalable cloud backends and AI-driven platforms.
+- 🏢 **Previous Experience**: Cloud Support Engineer at **Accenture** & Internal IT Systems at **BYJU’S**.
+- 🎓 **Education**: Master of Computer Applications (**MCA**) with specialization in Cloud Systems and Distributed Architectures.
+- 💡 **Core Focus**: Infrastructure as Code (IaC), GitOps, microservices orchestration, proactive observability, and zero-downtime deployments.
+- ⚡ **Fun Fact**: *The cloud is just someone else’s computer, but automation and SRE discipline make it yours!*
+
+---
+
+### 🛠️ Core Competencies & Tech Stack
+
+<table>
+  <tr>
+    <td width="28%"><strong>☁️ Cloud & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>⚙️ DevOps, IaC & CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>📊 Observability & Monitoring</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>💻 Languages & Scripting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>🗄️ Databases & Storage</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>🚀 Backend & Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>🛠️ Ecosystem & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/mannas006/edupapers">📚 EduPapers</a></h3>
+      <p align="center"><strong>AI-Powered Question Paper & Exam Platform</strong></p>
+      <p>Intelligent PDF processing, automated solution and questionnaire generation using Google Gemini AI, modern Material UI design with scalable cloud storage.</p>
+      <p align="center">
+        <code>React</code> • <code>Python</code> • <code>Google Gemini AI</code> • <code>Supabase</code> • <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/mannas006/StreamFlix">🎬 StreamFlix</a></h3>
+      <p align="center"><strong>High-Performance Media Streaming Engine</strong></p>
+      <p>Netflix-style streaming architecture engineered with instant playback, live audio transcoding, and robust HTTP byte-range chunk streaming for zero-lag buffer performance.</p>
+      <p align="center">
+        <code>TypeScript</code> • <code>Node.js</code> • <code>HTTP Streaming</code> • <code>Express</code> • <code>FFmpeg</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/mannas006/Buzzly-Chat">💬 Buzzly-Chat</a></h3>
+      <p align="center"><strong>Real-Time Anonymous Chat Platform</strong></p>
+      <p>Low-latency peer-matching instant messenger enabling frictionless 1-on-1 socket conversations without mandatory signups, built for real-time throughput.</p>
+      <p align="center">
+        <code>Node.js</code> • <code>Express</code> • <code>Socket.io</code> • <code>WebSockets</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/mannas006/PixsBliss_Site">🖼️ PixsBliss</a></h3>
+      <p align="center"><strong>Wallpaper & Visual Assets Platform</strong></p>
+      <p>High-resolution wallpaper curation and distribution platform providing responsive browsing, category indexing, and optimized asset delivery for multiple form factors.</p>
+      <p align="center">
+        <code>TypeScript</code> • <code>Next.js</code> • <code>Cloudflare CDN</code> • <code>Tailwind</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
   <p align="center">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannas006&theme=radical" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannas006&theme=radical" />
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mannas006&theme=radical" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=mannas006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manas's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=mannas006&theme=tokyonight&hide_border=true&background=0D1117" alt="Manas's GitHub Streak" />
   </p>
-  
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mannas006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </p>
 </div>
 
-<div align="center">
-  
-  ### 📊 Profile Views Counter
-  
-  <img src="https://komarev.com/ghpvc/?username=mannas006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mannas006?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mannas006?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  
-</div>
-<div align="center">
-  
-  ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  [![](https://visitcount.itsvg.in/api?id=mannas006&icon=5&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+---
 
-<!-- Proudly created with GPRM. ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <p><em>"Simplicity is prerequisite for reliability."</em> — <strong>Edsger W. Dijkstra</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
