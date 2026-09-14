@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="1" />
+      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="20%" stop-color="#0284c7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.25" />
+      <stop offset="80%" stop-color="#a855f7" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <!-- Background subtle glow -->
+  <ellipse cx="450" cy="30" rx="350" ry="25" fill="url(#glowGrad)" />
+  <!-- Center gradient bar -->
+  <rect x="150" y="29" width="600" height="2" fill="url(#footerLineGrad)" rx="1" />
+  <!-- Center diamond accent -->
+  <g transform="translate(450, 30)">
+    <polygon points="0,-6 6,0 0,6 -6,0" fill="#38bdf8" />
+    <circle cx="0" cy="0" r="2" fill="#ffffff" />
+  </g>
+</svg>

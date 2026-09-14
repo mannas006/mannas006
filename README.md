@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Manas%20Dey&fontSize=44&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20SRE%20%7C%20Co-Founder%20%40WebNexaLabs&descAlignY=60&descAlign=50" width="100%" alt="Manas Dey Header" />
+  <img src="./assets/header.svg" width="100%" alt="Manas Dey - Cloud &amp; DevOps Engineer" />
 </div>
 
 <div align="center">
@@ -183,5 +183,5 @@ I am a **Cloud & DevOps Engineer / Site Reliability Engineer (SRE)** with nearly
 
 <div align="center">
   <p><em>"Simplicity is prerequisite for reliability."</em> — <strong>Edsger W. Dijkstra</strong></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Divider" />
 </div>
